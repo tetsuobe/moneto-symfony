@@ -1,0 +1,3 @@
+FROM tetsuobe/docker-images:php7-dev
+
+WORKDIR /var/www/html
