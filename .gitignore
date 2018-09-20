@@ -12,3 +12,7 @@
 ###< symfony/phpunit-bridge ###
 
 /build/
+
+###> behat/symfony2-extension ###
+behat.yml
+###< behat/symfony2-extension ###
